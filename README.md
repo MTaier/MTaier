@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtaier&label=Profile%20views&color=0e75b6&style=flat" alt="mtaier" /> </p>
 
-- 🔭 I’m currently working on [01-Github-Explorer](https://github.com/MTaier/01-Github-Explorer)
+- 🔭 I’m currently working on [DT Money](https://github.com/MTaier/DTMoney)
 
 - 🌱 I’m currently learning **Ignite ReactJS - Rocketseat**
 
